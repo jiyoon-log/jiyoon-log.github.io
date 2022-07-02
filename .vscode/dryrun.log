@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `c:/Users/kangj/HelloBlog/jiyoon-log.github.io'
+bundle exec jekyll serve
+ 
+make.exe: Leaving directory `c:/Users/kangj/HelloBlog/jiyoon-log.github.io'
+ 
