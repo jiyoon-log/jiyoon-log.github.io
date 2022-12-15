@@ -20,7 +20,7 @@ The below is the example in Window.
 
 [Before]
 
-![before-format](/assets/img/before-format.PNG)
+![before-codeformat](/assets/img/before-codeformat.PNG)
 
 Press Shift + Alt + F.
 
@@ -28,7 +28,7 @@ I set the spaces for 2.
 
 [After]
 
-![after-format](/assets/img/after-format.PNG)
+![after-codeformat](/assets/img/after-codeformat.PNG)
 
 Thanks
 
