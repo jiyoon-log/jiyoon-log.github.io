@@ -6,7 +6,7 @@ categories:
 tags:
   - VScode
   - ShortcutCommand
-last_modified_at: 2022-12-14T08:06:00-05:00
+last_modified_at: 2022-12-15T08:06:00-05:00
 ---
 
 In this post, it shows the shortcut for code formatting.
