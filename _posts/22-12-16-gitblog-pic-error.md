@@ -1,5 +1,5 @@
 ---
-title:  "[VScode] Error - pic not working "
+title:  "[VScode] Error - pic not working (.png/ .PNG) "
 
 categories:
   - VScode
@@ -19,7 +19,7 @@ It's just one way so there can be many other ways.
 
 [ErrorResult]
 
-![ex_cake_lowercase](/assets/img/ex_cake_lowercase.jpg){: width="100" height="100"}
+![cake_lowercase](/assets/img/cake_lowercase.png){: width="100" height="100"}
 
 In the asset folder, its file name is like this.
 
@@ -37,7 +37,7 @@ And now, it shows the right result.
 
 [Result]
 
-![ex_cake](/assets/img/ex_cake.JPG){: width="100" height="100"}
+![cake](/assets/img/cake.PNG){: width="100" height="100"}
 
 
 Thanks
