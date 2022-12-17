@@ -6,10 +6,8 @@ categories:
 tags:
   - VScode
   - Error
-last_modified_at: 2022-12-16T08:06:00-05:00
+last_modified_at: 2022-12-17T08:06:00-05:00
 ---
-
-# this post will be changed. Sorry.
 
 In this post, it shows how to fix the error about pic doesn't work.
 It's just one way so there can be many other ways.
@@ -18,29 +16,17 @@ It's just one way so there can be many other ways.
 
  - The extension of the image file is lowercase. 
 
+```
+example.png
+```
 
-[ErrorResult]
+# Solution 
 
-![cake_lowercase](/assets/img/cake_lowercase.png){: width="100" height="100"}
+ - Make the extension of the image file into capital. 
 
-In the asset folder, its file name is like this.
-
-[Reason]
-
-![lowercase_ex](/assets/img/lowercase_ex.PNG)
-
-So, I change the file's extension to capital letters.
-
-[After]
-
-![capital_ex](/assets/img/capital_ex.PNG)
-
-And now, it shows the right result. 
-
-[Result]
-
-![cake](/assets/img/cake.PNG){: width="100" height="100"}
-
+```
+example.PNG
+```
 
 Thanks
 
