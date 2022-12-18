@@ -1,10 +1,10 @@
 ---
-title:  "[VScode] Error - pic not working (.png/ .PNG) "
+title:  "[GitBlog] Error - pic not working (.png/ .PNG) "
 
 categories:
-  - VScode
+  - Gitblog
 tags:
-  - VScode
+  - Gitblog
   - Error
 last_modified_at: 2022-12-17T08:06:00-05:00
 ---
