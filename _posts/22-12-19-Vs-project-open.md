@@ -18,11 +18,11 @@ The location is "File > Open Folder".
 
 Select which folder do you want to open.
 
-![Select_folder](/assets/img/Select_folder.PNG)
+![Select_Folder](/assets/img/Select_Folder.PNG)
 
 And then, you can see the project is been open on the left side.
 
-![Res_project](/assets/img/Res_project.PNG)
+![Res_Project](/assets/img/Res_Project.PNG)
 
 
 # Remove Project from WorkPlace
