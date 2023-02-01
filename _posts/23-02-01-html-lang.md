@@ -25,7 +25,7 @@ It defines the language of the non-modifiable text within the element, and the l
 
 # Result
 
-![html-lang-ex](/assets/img/html-lang-ex.PNG)
+![html-lang](/assets/img/html-lang.PNG)
 
 Thank you!
 
