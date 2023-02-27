@@ -6,12 +6,12 @@ categories:
   - Javascript
 tags:
   - Javascript
-last_modified_at: 2023-02-26T08:06:00-05:00
+last_modified_at: 2023-02-27T08:06:00-05:00
 ---
 
 In this post, it tells you about some of Object.prototype.toString&#40;&#41;.
 
-# Object.prototype.toStringf&#40;&#41;
+# Object.prototype.toString&#40;&#41;
 
 It returns a string representing the object.
 
