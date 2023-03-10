@@ -3,9 +3,9 @@ title: "[Web APIs] Element.getAttributeNames()"
 excerpt: ""
 
 categories:
-  - Javascript
+  - WEBAPI
 tags:
-  - Javascript
+  - WEBAPI
 last_modified_at: 2023-03-05T08:06:00-05:00
 ---
 
