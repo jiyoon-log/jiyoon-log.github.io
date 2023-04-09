@@ -27,10 +27,10 @@ interface Days {
 
 const birthday: Days = {
   name: 'Apple'
-};
+}
 const holiday: Required<Days> = {  // error
   name: 'Banana'
-};
+}
 ```
 
 Thank you!
