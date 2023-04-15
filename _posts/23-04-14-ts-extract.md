@@ -23,8 +23,8 @@ Extract<TYPE1, TYPE2>
 type ex1 = number | string
 type ex2 = number | boolean
 
-const one = Exclude<ex1, ex2> = 123
-const two = Exclude<ex1, ex2> = 'hello' //Error
+const one: Extract<ex1, ex2> = 123
+const two: Extract<ex1, ex2> = 'hello' //Error
 
 ```
 
