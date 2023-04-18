@@ -6,7 +6,7 @@ categories:
   - Typescript
 tags:
   - Typescript
-last_modified_at: 2023-04-16T08:06:00-05:00
+last_modified_at: 2023-04-17T08:06:00-05:00
 ---
 
 # Utility Types-ConstructorParameter
