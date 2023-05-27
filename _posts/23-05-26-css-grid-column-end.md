@@ -1,5 +1,5 @@
 ---
-title: "[CSS] grid-auto-rows"
+title: "[CSS] grid-column-end"
 excerpt: ""
 
 categories:
