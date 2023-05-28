@@ -15,6 +15,7 @@ In this post, it tells you about some of 'grid-column-start'.
 
 ```css
 grid-column-start: auto;
+grid-column-start: -2;
 ```
 
 [Reference]
