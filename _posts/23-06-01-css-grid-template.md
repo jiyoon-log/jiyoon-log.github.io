@@ -1,20 +1,20 @@
 ---
-title: "[CSS] grid-templete"
+title: "[CSS] grid-template"
 excerpt: ""
 
 categories:
   - CSS
 tags:
   - CSS
-last_modified_at: 2023-06-01T08:06:00-05:00
+last_modified_at: 2023-06-02T08:06:00-05:00
 ---
 
-In this post, it tells you about some of 'grid-templete'.
+In this post, it tells you about some of 'grid-template'.
 
-# grid-templete
+# grid-template
 
 ```css
-grid-templete: 
+grid-template: 
   "a a a"
   "b b b";
 ```
