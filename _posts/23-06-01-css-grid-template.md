@@ -17,6 +17,7 @@ In this post, it tells you about some of 'grid-template'.
 grid-template: 
   "a a a"
   "b b b";
+  grid-template: "a c c" auto
 ```
 
 [Reference]
