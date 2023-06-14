@@ -6,7 +6,7 @@ categories:
   - CSS
 tags:
   - CSS
-last_modified_at: 2023-06-13T08:06:00-05:00
+last_modified_at: 2023-06-14T08:06:00-05:00
 ---
 
 In this post, it tells you about some of 'initial-letter-align'.
@@ -16,6 +16,7 @@ In this post, it tells you about some of 'initial-letter-align'.
 ```css
 initial-letter-align: auto;
 initial-letter-align: hanging;
+initial-letter-align: alphabetic;
 ```
 
 [Reference]
