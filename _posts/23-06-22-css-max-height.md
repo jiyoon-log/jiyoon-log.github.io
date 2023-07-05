@@ -6,7 +6,7 @@ categories:
   - CSS
 tags:
   - CSS
-last_modified_at: 2023-06-25T08:06:00-05:00
+last_modified_at: 2023-07-05T08:06:00-05:00
 ---
 
 In this post, it tells you about some of 'max-height'.
@@ -15,9 +15,6 @@ In this post, it tells you about some of 'max-height'.
 
 ```css
 max-height: 178px;
-max-height: 80px;
-max-height: 8em;
-max-height: 65%;
 ```
 
 [Reference]
