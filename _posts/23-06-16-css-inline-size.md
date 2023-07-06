@@ -6,7 +6,7 @@ categories:
   - CSS
 tags:
   - CSS
-last_modified_at: 2023-06-21T08:06:00-05:00
+last_modified_at: 2023-07-06T08:06:00-05:00
 ---
 
 In this post, it tells you about some of 'inline-size'.
@@ -15,10 +15,6 @@ In this post, it tells you about some of 'inline-size'.
 
 ```css
 inline-size: auto;
-inline-size: 150px;
-inline-size: 55%;
-inline-size: vertical-1r;
-inline-size: max-content;
 ```
 
 [Reference]
