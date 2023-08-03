@@ -6,7 +6,7 @@ categories:
   - CSS
 tags:
   - CSS
-last_modified_at: 2023-08-02T08:06:00-05:00
+last_modified_at: 2023-08-03T08:06:00-05:00
 ---
 
 In this post, it tells you about some of 'grid-auto-rows'.
@@ -15,7 +15,6 @@ In this post, it tells you about some of 'grid-auto-rows'.
 
 ```css
 grid-auto-rows: auto;
-grid-auto-rows: 15px;
 ```
 
 [Reference]
