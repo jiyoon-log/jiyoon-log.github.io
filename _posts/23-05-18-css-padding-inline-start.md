@@ -6,7 +6,7 @@ categories:
   - CSS
 tags:
   - CSS
-last_modified_at: 2023-05-18T08:06:00-05:00
+last_modified_at: 2023-08-07T08:06:00-05:00
 ---
 
 In this post, it tells you about some of 'padding-inline-start'.
@@ -15,6 +15,7 @@ In this post, it tells you about some of 'padding-inline-start'.
 
 ```css
 padding-inline-start: 22px;
+padding-inline-start: 77px;
 ```
 
 [Reference]
